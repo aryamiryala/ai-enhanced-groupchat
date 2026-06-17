@@ -168,9 +168,3 @@ Copy the SHA-256 fingerprint and paste it into `frontend/.well-known/assetlinks.
 - [KoPlayer](https://koplayerpc.com/)
 
 ---
-
-## Deliverables
-
-- [ ] Source code (this repo)
-- [ ] Screenshots of the working website and Android app
-- [ ] Demonstration video
